@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-7 -fPIC -g  -shared -Wl,-soname,libsay-hello.so -o libsay-hello.so CMakeFiles/say-hello.dir/hello.cpp.o 

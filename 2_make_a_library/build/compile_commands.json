@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/intel/maajid/project_files/cmake_youtube_feb5_2021/2_make_a_library/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -Dsay_hello_EXPORTS  -g -fPIC   -o CMakeFiles/say-hello.dir/hello.cpp.o -c /home/intel/maajid/project_files/cmake_youtube_feb5_2021/2_make_a_library/hello.cpp",
+  "file": "/home/intel/maajid/project_files/cmake_youtube_feb5_2021/2_make_a_library/hello.cpp"
+},
+{
+  "directory": "/home/intel/maajid/project_files/cmake_youtube_feb5_2021/2_make_a_library/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7    -g   -o CMakeFiles/cmake-good.dir/main.cpp.o -c /home/intel/maajid/project_files/cmake_youtube_feb5_2021/2_make_a_library/main.cpp",
+  "file": "/home/intel/maajid/project_files/cmake_youtube_feb5_2021/2_make_a_library/main.cpp"
+}
+]

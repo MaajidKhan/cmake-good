@@ -1,0 +1,8 @@
+/home/intel/maajid/project_files/cmake_youtube_feb5_2021/3_sub_dir_and_target_interface_prop/build/CMakeFiles/rebuild_cache.dir
+/home/intel/maajid/project_files/cmake_youtube_feb5_2021/3_sub_dir_and_target_interface_prop/build/CMakeFiles/edit_cache.dir
+/home/intel/maajid/project_files/cmake_youtube_feb5_2021/3_sub_dir_and_target_interface_prop/build/say-hello/CMakeFiles/rebuild_cache.dir
+/home/intel/maajid/project_files/cmake_youtube_feb5_2021/3_sub_dir_and_target_interface_prop/build/say-hello/CMakeFiles/say-hello.dir
+/home/intel/maajid/project_files/cmake_youtube_feb5_2021/3_sub_dir_and_target_interface_prop/build/say-hello/CMakeFiles/edit_cache.dir
+/home/intel/maajid/project_files/cmake_youtube_feb5_2021/3_sub_dir_and_target_interface_prop/build/hello-exe/CMakeFiles/rebuild_cache.dir
+/home/intel/maajid/project_files/cmake_youtube_feb5_2021/3_sub_dir_and_target_interface_prop/build/hello-exe/CMakeFiles/cmake-good.dir
+/home/intel/maajid/project_files/cmake_youtube_feb5_2021/3_sub_dir_and_target_interface_prop/build/hello-exe/CMakeFiles/edit_cache.dir

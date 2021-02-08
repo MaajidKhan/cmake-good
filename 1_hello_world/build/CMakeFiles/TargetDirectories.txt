@@ -1,0 +1,3 @@
+/home/intel/maajid/project_files/cmake_youtube_feb5_2021/1_hello_world/build/CMakeFiles/rebuild_cache.dir
+/home/intel/maajid/project_files/cmake_youtube_feb5_2021/1_hello_world/build/CMakeFiles/cmake-good.dir
+/home/intel/maajid/project_files/cmake_youtube_feb5_2021/1_hello_world/build/CMakeFiles/edit_cache.dir

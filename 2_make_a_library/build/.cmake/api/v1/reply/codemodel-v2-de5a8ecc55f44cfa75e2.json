@@ -1,0 +1,68 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MyProject",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "cmake-good::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cmake-good-Debug-3cde0c91b3e4c1f27cbd.json",
+					"name" : "cmake-good",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "say-hello::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-say-hello-Debug-6bb6ba9b8c36fa20dacc.json",
+					"name" : "say-hello",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/intel/maajid/project_files/cmake_youtube_feb5_2021/2_make_a_library/build",
+		"source" : "/home/intel/maajid/project_files/cmake_youtube_feb5_2021/2_make_a_library"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

@@ -1,0 +1,4 @@
+/home/intel/maajid/project_files/cmake_youtube_feb5_2021/2_make_a_library/build/CMakeFiles/rebuild_cache.dir
+/home/intel/maajid/project_files/cmake_youtube_feb5_2021/2_make_a_library/build/CMakeFiles/edit_cache.dir
+/home/intel/maajid/project_files/cmake_youtube_feb5_2021/2_make_a_library/build/CMakeFiles/say-hello.dir
+/home/intel/maajid/project_files/cmake_youtube_feb5_2021/2_make_a_library/build/CMakeFiles/cmake-good.dir

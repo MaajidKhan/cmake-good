@@ -1,0 +1,2 @@
+/home/intel/maajid/project_files/cmake_youtube_feb5_2021/4_scripting_basics/build/CMakeFiles/rebuild_cache.dir
+/home/intel/maajid/project_files/cmake_youtube_feb5_2021/4_scripting_basics/build/CMakeFiles/edit_cache.dir

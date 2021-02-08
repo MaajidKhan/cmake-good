@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/intel/maajid/project_files/cmake_youtube_feb5_2021/2_make_a_library/hello.cpp
+hello.hpp
+/home/intel/maajid/project_files/cmake_youtube_feb5_2021/2_make_a_library/hello.hpp
+iostream
+-
+
+/home/intel/maajid/project_files/cmake_youtube_feb5_2021/2_make_a_library/hello.hpp
+

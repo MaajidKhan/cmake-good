@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/intel/maajid/project_files/cmake_youtube_feb5_2021/3_sub_dir_and_target_interface_prop/hello-exe/main.cpp
+iostream
+-
+say-hello/hello.hpp
+-
+
